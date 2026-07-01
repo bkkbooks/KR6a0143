@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0143/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0143/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿那邠邸化七子經
+  identifiers:
+    krp: KR6a0143
+    cbeta: T02n0140
+    cbeta_old_id: T02n0140
+    authorityid: CA0000041
+    json_key: T0140
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0140.xml
+    old_id: T02n0140
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0143_000-T.yaml, hash: 'sha256:bdec6cd378dbf8917a2a5f12600081401369b9c03d5a49d31b3068c8950543f7'}
+  - {seq: 1, filename: KR6a0143_001-T.yaml, hash: 'sha256:e1b76c83c53a6a7f1f16e4dff54b5637b7c86a621ac8430767b69f304d958d77'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0143_000-T.markers.yaml, hash: 'sha256:1c0fc7bb9553e7807ac68b9d282a5da6c87dfc520542938968d6b29f70832a63'}
+  - {seq: 1, role: markers, filename: assets/KR6a0143_001-T.markers.yaml, hash: 'sha256:427e4d5a90390350e6f61dd257915ad10a7ea36728396e5ffd2ecc2064609e86'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0143_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1620
+  label: 阿那邠邸化七子經
+  type: juan
+  level: 1
+hash: sha256:f9359a4c8b58adc96eef71e3d9a3611aa6f2c79444474398dd7865395da51f76
