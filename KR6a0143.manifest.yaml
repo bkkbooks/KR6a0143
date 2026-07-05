@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0143_000.yaml, hash: 'sha256:bdec6cd378dbf8917a2a5f12600081401369b9c03d5a49d31b3068c8950543f7'}
-  - {seq: 1, filename: KR6a0143_001.yaml, hash: 'sha256:2615d89ca0c7f15e787d07acc2c8f4004fb9f160b431498627498b3c3fa914be'}
+  - {seq: 1, filename: KR6a0143_001.yaml, hash: 'sha256:e1b76c83c53a6a7f1f16e4dff54b5637b7c86a621ac8430767b69f304d958d77'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0143_001.markers.yaml, hash: 'sha256:06a408b0d2929c4d494a40e0235031a4c820296b0b68afb01be8ad6f268a2781'}
+  - {seq: 0, role: markers, filename: assets/KR6a0143_000.markers.yaml, hash: 'sha256:d5e2064c75b848bda101514716060d20829db66014d22556c165bff5ef08635c'}
+  - {seq: 1, role: markers, filename: assets/KR6a0143_001.markers.yaml, hash: 'sha256:6f126f4c35c4059c0552779b9b1604fec027591a84f5b4cad499d7c78e1407a2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 阿那邠邸化七子經
   type: juan
   level: 1
-hash: sha256:bfcf02a5489ab8800f320125f8cb1c394cdba4bf06a56255067ca8188f96c6a7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1f737242135699bbfbefdd50007f43aa2ccbb56dcdbf063c1a5f094a2e152149
