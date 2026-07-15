@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0143/v1
 canonical_location: https://kanripo.org/bkk/KR6a0143/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阿那邠邸化七子經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0143_000.yaml, hash: 'sha256:bdec6cd378dbf8917a2a5f12600081401369b9c03d5a49d31b3068c8950543f7'}
-  - {seq: 1, filename: KR6a0143_001.yaml, hash: 'sha256:e1b76c83c53a6a7f1f16e4dff54b5637b7c86a621ac8430767b69f304d958d77'}
+  - {seq: 1, filename: KR6a0143_001.yaml, hash: 'sha256:40f0000fdded5cdd3175a8ee881414b0449f75885722b678725cbf0e0e50841c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0143_000.markers.yaml, hash: 'sha256:d5e2064c75b848bda101514716060d20829db66014d22556c165bff5ef08635c'}
-  - {seq: 1, role: markers, filename: assets/KR6a0143_001.markers.yaml, hash: 'sha256:6f126f4c35c4059c0552779b9b1604fec027591a84f5b4cad499d7c78e1407a2'}
+  - {seq: 1, role: markers, filename: assets/KR6a0143_001.markers.yaml, hash: 'sha256:5009e038156701d521e4e6c1f43e38444852f6447962d48d5cbe4f6ac557da43'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 阿那邠邸化七子經
   type: juan
   level: 1
-hash: sha256:1f737242135699bbfbefdd50007f43aa2ccbb56dcdbf063c1a5f094a2e152149
+hash: sha256:a816405e74c5266d44b221ae35d5521707ba9197990a45c4e08f078c0fa3e7a9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
