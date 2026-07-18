@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0143_000.yaml, hash: 'sha256:bdec6cd378dbf8917a2a5f12600081401369b9c03d5a49d31b3068c8950543f7'}
   - {seq: 1, filename: KR6a0143_001.yaml, hash: 'sha256:40f0000fdded5cdd3175a8ee881414b0449f75885722b678725cbf0e0e50841c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0143_000.markers.yaml, hash: 'sha256:d5e2064c75b848bda101514716060d20829db66014d22556c165bff5ef08635c'}
+  - {seq: 0, role: markers, filename: assets/KR6a0143_000.markers.yaml, hash: 'sha256:03cdcd0e466b4597f64702687189f6ee0fabdd75fa290218ab74b405cadec650'}
   - {seq: 1, role: markers, filename: assets/KR6a0143_001.markers.yaml, hash: 'sha256:5009e038156701d521e4e6c1f43e38444852f6447962d48d5cbe4f6ac557da43'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 阿那邠邸化七子經
   type: juan
   level: 1
-hash: sha256:a816405e74c5266d44b221ae35d5521707ba9197990a45c4e08f078c0fa3e7a9
+hash: sha256:e4d10db431e967b07f95657d74141d581c1b171500e5f41b81e672548f6da23c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
